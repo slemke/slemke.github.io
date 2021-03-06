@@ -1,0 +1,149 @@
+[
+  {
+    "title": "News",
+    "links": [
+      {
+        "title": "HN: Passive Income 2020",
+        "url": "https://news.ycombinator.com/item?id=25316912",
+        "tags": [
+          "income",
+          "community"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Machine Learning",
+    "links": [
+      {
+        "title": "Neural network implementation in Javascript",
+        "url": "https://franpapers.com/en/machine-learning-ai-en/2017-neural-network-implementation-in-javascript-by-an-example/",
+        "tags": [
+          "neural networks",
+          "javascript"
+        ]
+      },
+      {
+        "title": "The fastai book",
+        "url": "https://github.com/fastai/fastbook",
+        "tags": [
+          "neural networks"
+        ]
+      },
+      {
+        "title": "Code2Vec",
+        "url": "https://github.com/tech-srl/code2vec",
+        "tags": [
+          "neural networks",
+          "code"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Parsing",
+    "links": [
+      {
+        "title": "The Svelte Compiler Handbook",
+        "url": "https://lihautan.com/the-svelte-compiler-handbook/",
+        "tags": [
+          "svelte",
+          "parsing"
+        ]
+      },
+      {
+        "title": "Crafting Interpreters",
+        "url": "http://www.craftinginterpreters.com/contents.html",
+        "tags": [
+          "parsing",
+          "code"
+        ]
+      },
+      {
+        "title": "Creating JVM language",
+        "url": "http://jakubdziworski.github.io/categories.html#Enkel-ref",
+        "tags": [
+          "parsing",
+          "code",
+          "jvm"
+        ]
+      },
+      {
+        "title": "Build your own Webpack",
+        "url": "https://www.youtube.com/watch?v=a1HS3-YkJnY",
+        "tags": [
+          "parsing",
+          "code",
+          "bundeling"
+        ]
+      },
+      {
+        "title": "Code a web server from scratch with NodeJS streams",
+        "url": "https://www.codementor.io/@ziad-saab/let-s-code-a-web-server-from-scratch-with-nodejs-streams-h4uc9utji",
+        "tags": [
+          "parsing",
+          "javascript"
+        ]
+      },
+      {
+        "title": "Build Your Own Module Bundler - Minipack",
+        "url": "https://github.com/ronami/minipack",
+        "tags": [
+          "parsing",
+          "bundeling",
+          "javascript"
+        ]
+      },
+      {
+        "title": "A DIY guide to build your own React",
+        "url": "https://github.com/pomber/didact",
+        "tags": [
+          "frontend",
+          "javascript"
+        ]
+      },
+      {
+        "title": "Build your own React",
+        "url": "https://pomb.us/build-your-own-react/",
+        "tags": [
+          "frontend",
+          "javascript"
+        ]
+      },
+      {
+        "title": "Building a Chatbot with Speech API and Node",
+        "url": "https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/",
+        "tags": [
+          "javascript",
+          "frontend"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Botany",
+    "links": [
+      {
+        "title": "Open Window Farming",
+        "url": "https://github.com/luke0x/open-window-farming",
+        "tags": [
+          "botany",
+          "farming"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tools",
+    "links": [
+      {
+        "title": "Regexr",
+        "url": "https://regexr.com/",
+        "tags": [
+          "productivity",
+          "regex"
+        ]
+      }
+    ]
+  }
+]
