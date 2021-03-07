@@ -1,13 +1,20 @@
 [
   {
-    "title": "News",
+    "title": "Income",
     "links": [
       {
         "title": "HN: Passive Income 2020",
         "url": "https://news.ycombinator.com/item?id=25316912",
         "tags": [
+          "income"
+        ]
+      },
+      {
+        "title": "Python For Finance: Algorithmic Trading",
+        "url": "https://www.datacamp.com/community/tutorials/finance-python-trading",
+        "tags": [
           "income",
-          "community"
+          "algotrading"
         ]
       }
     ]
@@ -58,6 +65,14 @@
         "url": "https://www.youtube.com/watch?v=WCUNPb-5EYI",
         "tags": [
           "neural networks"
+        ]
+      },
+      {
+        "title": "Intelligent code reviews using deep learning",
+        "url": "https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_40.pdf",
+        "tags": [
+          "neural networks",
+          "code"
         ]
       }
     ]
@@ -131,6 +146,14 @@
           "frontend",
           "javascript"
         ]
+      },
+      {
+        "title": "Semantic Analysis",
+        "url": "https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/lectures/08/Slides08.pdf",
+        "tags": [
+          "parsing",
+          "code"
+        ]
       }
     ]
   },
@@ -151,6 +174,38 @@
         "tags": [
           "javascript",
           "frontend"
+        ]
+      },
+      {
+        "title": "Frontend Handbook 2019",
+        "url": "https://frontendmasters.com/books/front-end-handbook/2018/",
+        "tags": [
+          "javascript",
+          "frontend"
+        ]
+      },
+      {
+        "title": "Design Patterns",
+        "url": "https://sourcemaking.com/design_patterns",
+        "tags": [
+          "patterns",
+          "code"
+        ]
+      },
+      {
+        "title": "Software Development Antipatterns",
+        "url": "https://sourcemaking.com/antipatterns/software-development-antipatterns",
+        "tags": [
+          "patterns",
+          "code"
+        ]
+      },
+      {
+        "title": "Semantic - Used for code navigation on github.com",
+        "url": "https://github.com/github/semantic",
+        "tags": [
+          "parsing",
+          "code"
         ]
       }
     ]
@@ -185,6 +240,14 @@
         "tags": [
           "electronics",
           "hardware"
+        ]
+      },
+      {
+        "title": "Spaceglove: Spacecraft Gesture And Voice Commanding",
+        "url": "https://2015.spaceappschallenge.org/challenge/spaceglove-spacecraft-gesture-and-voice-commanding/",
+        "tags": [
+          "electronics",
+          "space"
         ]
       }
     ]
