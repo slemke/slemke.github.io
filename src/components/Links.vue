@@ -32,12 +32,18 @@ export default {
     name: 'Links',
     data() {
         return {
-            links
+            links: this.sortLinks(links)
         };
     },
     methods: {
         getBaseUrl(url) {
             return new URL(url).host;
+        },
+        sortLinks(links) {
+            return links.map((category) => {
+                category.links = category.links.sort((a, b) => a.title > b.title ? 1 : - 1);
+                return category;
+            });
         }
     }
 };
