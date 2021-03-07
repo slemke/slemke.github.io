@@ -37,6 +37,28 @@
           "neural networks",
           "code"
         ]
+      },
+      {
+        "title": "Understanding word vectors",
+        "url": "https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469",
+        "tags": [
+          "neural networks",
+          "nlp"
+        ]
+      },
+      {
+        "title": "But what is a Neural Network? | Deep learning, chapter 1",
+        "url": "https://www.youtube.com/watch?v=aircAruvnKk",
+        "tags": [
+          "neural networks"
+        ]
+      },
+      {
+        "title": "Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)",
+        "url": "https://www.youtube.com/watch?v=WCUNPb-5EYI",
+        "tags": [
+          "neural networks"
+        ]
       }
     ]
   },
@@ -109,13 +131,60 @@
           "frontend",
           "javascript"
         ]
-      },
+      }
+    ]
+  },
+  {
+    "title": "Code",
+    "links": [
       {
         "title": "Building a Chatbot with Speech API and Node",
         "url": "https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/",
         "tags": [
           "javascript",
           "frontend"
+        ]
+      },
+      {
+        "title": "Rain and Wetter Effect Experiments with WebGL",
+        "url": "https://tympanus.net/codrops/2015/11/04/rain-water-effect-experiments/",
+        "tags": [
+          "javascript",
+          "frontend"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Game Development",
+    "links": [
+      {
+        "title": "Unreal Engine 4 Beginner Tutorial - Create Worlds in UE4",
+        "url": "https://www.youtube.com/watch?v=_a6kcSP8R1Y",
+        "tags": [
+          "games",
+          "unreal"
+        ]
+      },
+      {
+        "title": "How Maxis Can Improve SimCity's Pathfinding AI",
+        "url": "https://www.youtube.com/watch?v=iYy2CxPytCQ",
+        "tags": [
+          "games",
+          "pathfinding"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Electronics",
+    "links": [
+      {
+        "title": "Electronics Tutorial",
+        "url": "https://www.youtube.com/watch?v=XYJ_AUOw4aE",
+        "tags": [
+          "electronics",
+          "hardware"
         ]
       }
     ]
