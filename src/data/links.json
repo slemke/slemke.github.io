@@ -207,6 +207,22 @@
           "parsing",
           "code"
         ]
+      },
+      {
+        "title": "Build a Music Visualizer with the Web Audio API",
+        "url": "https://noisehack.com/build-music-visualizer-web-audio-api/",
+        "tags": [
+          "frontend",
+          "javascript"
+        ]
+      },
+      {
+        "title": "The Book of Shaders",
+        "url": "https://thebookofshaders.com/",
+        "tags": [
+          "code",
+          "computer graphics"
+        ]
       }
     ]
   },
