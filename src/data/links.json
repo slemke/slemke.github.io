@@ -223,6 +223,14 @@
           "code",
           "computer graphics"
         ]
+      },
+      {
+        "title": "GitHub: Awesome Browser Automation",
+        "url": "https://github.com/angrykoala/awesome-browser-automation",
+        "tags": [
+          "frontend",
+          "automation"
+        ]
       }
     ]
   },
@@ -341,6 +349,19 @@
         "tags": [
           "authentication",
           "security"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Accessibility",
+    "links": [
+      {
+        "title": "web.dev: How To Do an Accessibility Review",
+        "url": "https://web.dev/how-to-review/",
+        "tags": [
+          "accessibility",
+          "frontend"
         ]
       }
     ]
