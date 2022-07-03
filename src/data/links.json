@@ -293,5 +293,56 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Design",
+    "links": [
+      {
+        "title": "Guillaume Gouessan - make things move",
+        "url": "https://guillaumegouessan.com/talk/move/",
+        "tags": [
+          "design",
+          "frontend"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Authentication",
+    "links": [
+      {
+        "title": "GitHub: Awesome Keycloak",
+        "url": "https://github.com/thomasdarimont/awesome-keycloak",
+        "tags": [
+          "authentication",
+          "keycloak"
+        ]
+      },
+      {
+        "title": "GitHub: Keycloak Extension Playground",
+        "url": "https://github.com/thomasdarimont/keycloak-extension-playground",
+        "tags": [
+          "authentication",
+          "keycloak"
+        ]
+      },
+      {
+        "title": "GitHub: Apple Social Identity Provider for Keycloak",
+        "url": "https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider",
+        "tags": [
+          "authentication",
+          "keycloak",
+          "apple"
+        ]
+      },
+      {
+        "title": "(Web-)Insecurity Blog: Insufficent Redirect URI validation",
+        "url": "https://security.lauritz-holtmann.de/post/sso-security-redirect-uri-ii/",
+        "tags": [
+          "authentication",
+          "security"
+        ]
+      }
+    ]
   }
 ]
